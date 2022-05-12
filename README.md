@@ -7,8 +7,8 @@ Welcome to my Github! Here you can find repositories filled with various project
 - Data Analytics Boot Camp Graduate (*April 2022, Juno College Of Technology*)
 - Hockey enthusiast who vicariously lives through my favorite team: Toronto Maple Leafs
 - I like working collaboratively and learn best by getting my hands dirty!
-- I am a voracious reading who really enjoys a good fantasy 
-serries
+- I am a voracious reader who really enjoys a good fantasy 
+series
 - Check out my resume [here!](https://drive.google.com/file/d/1Mw9mUEjtjZpP6xdLHtdqNC-DsMZiN1ny/view?usp=sharing)
 - Tech stack:<br>
 ![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) 
